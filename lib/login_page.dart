@@ -32,7 +32,7 @@ class _LoginPageState extends State<LoginPage> {
               
             
               Text(
-                'EduLIFE Solutions Youtube',
+                'EduLIFE Solutions',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 24,
